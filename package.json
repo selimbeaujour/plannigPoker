@@ -1,0 +1,13 @@
+{
+  "name": "planning-poker-fibonacci",
+  "version": "1.0.0",
+  "description": "Planning poker multi-utilisateurs avec cartes Fibonacci (Node.js, sans dépendance)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
